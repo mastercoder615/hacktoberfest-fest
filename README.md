@@ -1,6 +1,6 @@
 # hacktoberfest-fest
 
-##Lean to code  how to navigate in dart
+##Lean to code in dart  
 
 import 'package:flutter/material.dart';
 
